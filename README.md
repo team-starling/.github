@@ -1,1 +1,3 @@
-# .github
+# Starling
+
+## Our Goal
