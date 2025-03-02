@@ -30,3 +30,8 @@ We are one of the few teams in Poland developing **autonomous flying systems**. 
 Beyond the competition, we plan to **further develop our system** to meet commercial needs. We are actively involved in the **Warsaw University of Technology accelerator** and seeking opportunities to **present our work to a wider audience**.  
 
 Until April, our **primary focus is on the competition**, but we always remember **why we started**.
+
+## Contact US
+
+Jakub Maliszewski 
+Jakub Mięti mietki.jakub@gmail.com
