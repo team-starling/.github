@@ -31,7 +31,14 @@ Beyond the competition, we plan to **further develop our system** to meet commer
 
 Until April, our **primary focus is on the competition**, but we always remember **why we started**.
 
-## Contact US
+# Contact Us
 
-Jakub Maliszewski 
-Jakub Mięti mietki.jakub@gmail.com
+For any questions or support, feel free to reach out to us:
+
+- **Jakub Maliszewski**  
+  - Phone: --- 
+  - Email: [jaqbmaliszewski@gmail.com](mailto:jaqbmaliszewski@gmail.com)
+
+- **Eryk Wesoły**  
+  - Phone: +48 788 206 223  
+  - Email: [mietki.jakub@gmail.com](mailto:mietki.jakub@gmail.com) 
