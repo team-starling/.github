@@ -39,6 +39,6 @@ For any questions or support, feel free to reach out to us:
   - Phone: --- 
   - Email: [jaqbmaliszewski@gmail.com](mailto:jaqbmaliszewski@gmail.com)
 
-- **Eryk Wesoły**  
+- **Jakub Miętki**  
   - Phone: +48 788 206 223  
   - Email: [mietki.jakub@gmail.com](mailto:mietki.jakub@gmail.com) 
